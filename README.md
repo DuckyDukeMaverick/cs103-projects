@@ -1,6 +1,7 @@
 # CS103: Programming for Data Science
  Data visualization and analysis projects for the class CS103: Programming for Data Science at Fulbright University Vietnam.
- Tools used: Python & Libraries (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
+
+ Tools used: Python & Python Libraries (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn).
 ### Project 1: Data Visualization
 Brief Description:
 <ul>
@@ -58,12 +59,12 @@ Brief Description:
 </ul>
 Some Illustrations:
 <p align = "center">
-<img src = README-images/code31.png width = 60% height = 70%>
+<img src = README-images/code31.png width = 60% height = 100%>
 </p>
 
 <p align = "center">
-<img src = README-images/code32.png width = 60% height = 60%>
-<img src = README-images\ass31.png width = 20% height = 150>
+<img src = README-images/code32.png width = 60% height = 80%>
+<img src = README-images\ass31.png width = 10% height = 150>
 </p>
 
 ### Project 4: Logistic Regression
