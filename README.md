@@ -11,17 +11,40 @@ Brief Description:
 Some Illustration:
 <p align="center">
 <img src = "README-images/code11.png" width = 40% height = 40%>
+</p>
+
+
+<p align="center">
 <img src = "README-images/ass11.png" width=40% height = 40%>
+</p>
+
+
+<p align="center">
 <img src = README-images/code12.png width=40% height = 40%>
+</p>
+
+
+<p align="center">
 <img src = README-images/ass12.png width=40% height = 40%>
+
+
 </p>
 
 ### Progject 2: Data Analysis
 Brief Description: Find, clean, visualize, and analyze an online <a href="https://www.kaggle.com/datasets/datasnaek/chess" target="_blank">dataset</a> with Pandas, numpy and Matplotlib.
-Some Illustrations: 
+Some Illustrations:
+
 <p align = "center">
 <img src = README-images/code21.png, width=40% height = 40%>
+</p>
+
+
+<p align="center">
 <img src = README-images/ass21.png, width=40% height = 40%>
+</p>
+
+
+<p align="center">
 <img src = README-images/ass22png.png, width=40% height = 40%>
 </p>
 
