@@ -63,7 +63,7 @@ Brief Description:
 </ul>
 Some Illustrations:
 <p align = "center">
-<img src = "Illustration Images/code31.png" width = 60% height = 100%>
+<img src = "Illustration Images/code31.png" width = 60% height = 125>
 </p>
 
 <p align = "center">
