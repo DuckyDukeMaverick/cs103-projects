@@ -57,11 +57,13 @@ Bried Description:
 Some Illustrations:
 <p align = "center">
 <img src = README-images/code31.png width = 40% height = 40%>
-<img src = README-images\ass31.png width = 40% height = 40%>
 </p>
 
 <p align = "center">
-<img src = README-images/code32.png width = 40% height = 10%>
+<img src = README-images/code32.png width = 40% height = 40%>
+</p>
+<p align = "center">
+<img src = README-images\ass31.png width = 40% height = 10%>
 </p>
 ### Progject 4: Logistic Regression
 
