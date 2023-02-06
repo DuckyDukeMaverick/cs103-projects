@@ -10,24 +10,24 @@ Brief Description:
 <li> Visualize the dataset with Matplotlib.
 <li> Describe and interpret the visualizations in a report.
 </ul>
-Some Illustration:
+Some Illustrations:
 <p align="center">
-<img src = "README-images/code11.png" width = 60% height = 60%>
+<img src = "Illustration Images\code11.png" width = 60% height = 60%>
 </p>
 
 
 <p align="center">
-<img src = "README-images/ass11.png" width=60% height = 60%>
+<img src = "Illustration Images\ass11.png" width=60% height = 60%>
 </p>
 
 
 <p align="center">
-<img src = README-images/code12.png width=60% height = 60%>
+<img src = "README-images/code12.png" width=60% height = 60%>
 </p>
 
 
 <p align="center">
-<img src = README-images/ass12.png width=60% height = 60%>
+<img src = "Illustration Images\ass12.png" width=60% height = 60%>
 
 
 </p>
@@ -37,17 +37,21 @@ Brief Description: Find, clean, visualize, and analyze an online <a href="https:
 Some Illustrations:
 
 <p align = "center">
-<img src = README-images\code21.png width=60% height = 60%>
+<img src = "Illustration Images\code21.png" width=60% height = 60%>
 </p>
 
 
 <p align="center">
-<img src = README-images/ass21.png width=60% height = 60%>
+<img src = "Illustration Images\ass21.png" width=60% height = 60%>
 </p>
 
 
 <p align="center">
-<img src = README-images/ass22png.png width=60% height = 60%>
+<img src = "Illustration Images/code22.png" width=60% height = 60%>
+</p>
+
+<p align="center">
+<img src = "Illustration Images/ass22png.png" width=60% height = 60%>
 </p>
 
 ### Progject 3: Linear Regression
@@ -59,12 +63,12 @@ Brief Description:
 </ul>
 Some Illustrations:
 <p align = "center">
-<img src = README-images/code31.png width = 60% height = 100%>
+<img src = "Illustration Images/code31.png" width = 60% height = 100%>
 </p>
 
 <p align = "center">
-<img src = README-images/code32.png width = 60% height = 80%>
-<img src = README-images\ass31.png width = 10% height = 150>
+<img src = "Illustration Images/code32.png" width = 60% height = 80%>
+<img src = "Illustration Images\ass31.png" width = 10% height = 150>
 </p>
 
 ### Project 4: Logistic Regression
@@ -76,15 +80,15 @@ Brief Description:
 </ul>
 Some Illustrations:
 <p align = "center">
-<img src = README-images\code41.png width = 60% height = 60%>
-<img src = README-images\ass41.png width = 60% height = 60%>
+<img src = "Illustration Images\code41.png" width = 60% height = 60%>
+<img src = "Illustration Images\ass41.png" width = 60% height = 60%>
 </p>
 <p align = "center">
-<img src = README-images\code42.png  width = 60% height = 60%>
-<img src = README-images\ass42.png width = 60% height = 60%>
+<img src = "Illustration Images\code42.png"  width = 60% height = 60%>
+<img src = "Illustration Images\ass42.png" width = 60% height = 60%>
 </p>
 <p align = "center">
-<img src = README-images\code43.png width = 60% height = 60%>
+<img src = "Illustration Images\code43.png" width = 60% height = 60%>
 </p>
 
 
