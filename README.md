@@ -35,21 +35,35 @@ Brief Description: Find, clean, visualize, and analyze an online <a href="https:
 Some Illustrations:
 
 <p align = "center">
-<img src = README-images/code21.png, width=40% height = 40%>
+<img src = README-images\code21.png width=40% height = 40%>
 </p>
 
 
 <p align="center">
-<img src = README-images/ass21.png, width=40% height = 40%>
+<img src = README-images/ass21.png width=40% height = 40%>
 </p>
 
 
 <p align="center">
-<img src = README-images/ass22png.png, width=40% height = 40%>
+<img src = README-images/ass22png.png width=40% height = 40%>
 </p>
 
 ### Progject 3: Linear Regression
-Bried Description: Clean, visualize and analyze a given dataset.  
+Bried Description:   
 <ul>
-<>
+<li> Clean, visualize and analyze a given dataset.
+<li> Construct three linear regression models with different data normalization and manipulation techniques with sklearn.
+</ul>
+Some Illustrations:
+<p align = "center">
+<img src = README-images/code31.png width = 40% height = 40%>
+<img src = README-images\ass31.png width = 40% height = 40%>
+</p>
+
+<p align = "center">
+<img src = README-images/code32.png width = 40% height = 40%>
+</p>
+### Progject 4: Logistic Regression
+
+
 
